@@ -6,4 +6,5 @@
  *
  */
 module javaOpenClassrooms {
+	requires org.junit.jupiter.api;
 }
